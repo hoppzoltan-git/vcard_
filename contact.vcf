@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Hopp;Zoltán;;;
+FN:Hopp Zoltán
+ORG:Pécsi Kommunikációs Központ
+TITLE:Marketing manager
+TEL;TYPE=CELL,VOICE:+36308285712
+EMAIL;TYPE=INTERNET,WORK:hopp.zoltan@gmail.com
+END:VCARD
